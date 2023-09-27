@@ -1,0 +1,10 @@
+A mod's Preview.png is used as the preview image for that mod in both the in-game mod manager as well as Steam Workshop. 
+It is strongly recommended to use a 640x360 PNG file as this is the default size and aspect ratio (16/9) 
+configured for RimWorld and using other sizes may result in blurring or letterboxing. 
+You can also opt to use 1280x720 for higher resolution artwork, 
+but preview files must remain under 1MB or Steam Workshop will reject your upload. 
+If you get a "limit exceeded" error, then double-check the size of your Preview.png.
+
+Note: While PNG files are standard, RimWorld does not actually require a PNG file. 
+It is possible to use JPG or even animated GIF files by simply renaming them "Preview.png", 
+but the PNG extension must be used or RimWorld will not recognize it.

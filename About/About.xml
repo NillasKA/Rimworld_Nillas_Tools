@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+  <packageID>Nillas.Tools</packageID>
+  <name>Nillas Tools</name>
+  <author>Nillas</author>
+  <description>A varied set of tools to make your pawns lives easier.</description>
+
+  <supportedVersions>
+  <li>1.4</li>
+  </supportedVersions>
+
+</ModMetaData>
